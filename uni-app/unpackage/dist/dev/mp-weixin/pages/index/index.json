@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "hm-news-card": "/components/hm-news-card/index"
+  }
+}

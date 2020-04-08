@@ -1,0 +1,1 @@
+<view class="test-component _div"><hm-news-card vue-id="8dd740cc-1" options="{{options}}" data-event-opts="{{[['^click',[['onClick']]]]}}" bind:click="__e" bind:__l="__l"></hm-news-card></view>
